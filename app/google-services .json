@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655283124484",
+    "project_id": "kotlinonlineshop",
+    "storage_bucket": "kotlinonlineshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655283124484:android:21dd2e882fa91591cd3851",
+        "android_client_info": {
+          "package_name": "com.example.kotonlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_k1bEMaiDU0R1nCbcd1srbd5-wc_HMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
